@@ -8,3 +8,8 @@ npm i axios
 npm i discord.js
 ```
 And use node.js
+
+### Commands
+command's have bot only 1
+!obfuscateLua
+work on dm and on server
